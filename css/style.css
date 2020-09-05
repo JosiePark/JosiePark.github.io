@@ -40,23 +40,15 @@ h6 {
 
 
 #name {
-	background:#ffffcc;
+	background:#56BEF3;
 }
 
 #about {
-	background:#e6e6e6;
-}
-
-#publications {
-	background:#e6e6e6;
-}
-
-#research {
-	background: #f2f2f2;
+	background:#C6DCE8;
 }
 
 #contact {
-	background: #f2f2f2;
+	background: #56BEF3;
 }
 
  
@@ -87,79 +79,6 @@ table > tbody > tr > td {
 tr:nth-child(1) > td {
 	border-top:0px;
 }
-
-#tableDeckOdd {
-	font-weight: 500;
-	color: #ffffff;
-	background: #3399ff;
-}
-
-#tableDeckEven {
-	font-weight: 500;
-	color: #ffffff;
-	background: #4da6ff;
-}
-
-#fixtures {
-	font-weight: 500;
-}
-
-#winner {
-	font-weight: 500;
-	text-align: right;
-}
-
-#loser {
-	font-weight: 500;
-	text-align: left;
-}
-
-#winnerEven {
-	font-weight: 500;
-	text-align: right;
-	background: #4da6ff;
-}
-
-#winnerOdd {
-	font-weight: 500;
-	text-align: right;
-	background: #3399ff;
-}
-
-#loserEven {
-	font-weight: 500;
-	text-align: left;
-	background: #4da6ff;
-}
-
-#loserOdd {
-	font-weight: 500;
-	text-align: left;
-	background: #3399ff;
-}
-
-#middleEven {
-	font-weight: 500;
-	text-align: center;
-	background: #4da6ff;
-}
-
-#middleOdd {
-	font-weight: 500;
-	text-align: center;
-	background: #3399ff;
-}
-
-
-#winnerHead {
-	text-align: right;
-}
-
-#loserHead {
-	text-align: left;
-}
-
-
 
 #house {
 	width: 30px;
