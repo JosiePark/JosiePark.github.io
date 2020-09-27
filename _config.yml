@@ -83,8 +83,8 @@ author:
   name             : "Josie Park"
   avatar           : "josie.jpg"
   bio              : "Get in touch"
-  location         : "Location"
-  employer         : "Altius"
+  location         : "London, UK"
+  employer         : "https://www.altiusdata.com/"
   pubmed           : 
   googlescholar    : 
   email            : "josie.park@altiusdata.com"
@@ -96,13 +96,13 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "JosiePark"
+  github           : "https://github.com/JosiePark"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://www.linkedin.com/in/josephine-park/"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -209,10 +209,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _teaching
+  # _PhD research
   - scope:
       path: ""
-      type: teaching
+      type: phd
     values:
       layout: single
       author_profile: true
