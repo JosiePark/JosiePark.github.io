@@ -23,7 +23,7 @@ Education
 Work experience
 ======
 
-* November 2015 - Present: Data Science Consultant, Altius
+* November 2019 - Present: Data Science Consultant, Altius, London, UK
   * NLP project analysing and summarising consultation response data}
     * Cleaning and processing text using the python nltk and SpaCy packages.
     * Developing a topic model and a sentiment analysis model.
@@ -41,6 +41,15 @@ Work experience
     * Focus was on reconstructing handwriting.
     * Used Microsoft Azure's Read API to guide the process.
     * Managed to construct most popular drug names with accuracy of 98\%.
+
+* Summer 2018 - Summer Research Assistant, Met Office
+  * I worked alongside the Dynamics Research group at the Met Office. I tested a finite volume numerical method used for modelling the transport equation and isolated causes of any inaccuracies due to the new cubed-sphere grid, and suggested possible solutions which were then collected into a report advising the team based on my results. All code was written in Python, and I presented the results to colleagues at Imperial. 
+
+* 2017 - 2019 - Graduate Teaching Assistant, Imperial College London
+  * Supervised problems classes and marked assessments for MATLAB, Python and Mechanics courses.
+
+* Summer 2012 - Statistician, Wheelright, Begbroke Science Park, Woodstock
+  * Responsible for collecting and presenting daily tyre pressure data and investigating the cause of incorrect readings or data outliers.
   
 Skills
 ======
@@ -61,3 +70,23 @@ Skills
 * Shell scripting
 * Microsoft Azure
 
+Extra-curricular Activities
+======
+
+* 2017 - 2019 - Scientific Computing Support Network Founder, Imperial College London
+  * We set up a support network where post-graduate students can ask for help with computing problems. Part of this involved running a fair informing new PhD and Masters students how to start coding, use the High Performance Computing Cluster, about version control and about good coding practices. The end goal is that it could provide more avenues to cross-departmental collaboration and publications.
+
+* 2014 - 2015 - President, Univesity College London Swimming Club
+  * Key roles included acting as the main point of contact with the Union, applying for grants, working alongside the treasurer to keep track of club finances, acquiring sponsorship, organising events, securing pool space for training sessions and communicating with our 200 members and delegating tasks to the committee. 
+
+* 2013 - 2014 - Treasurer, University College London Swimming Club
+  * Was responsible for all club finances. Key roles included budgeting for the upcoming year, applying for grants, ensuring sponsorship and budgeting for events.
+
+Outreach, Talks and Networking Events
+======
+
+* September 2020 - Women in Tech STEM Women graduate event
+  * Gave a presentation to female STEM graduates looking to pursue a career in tech detailing my experiences during my first year at Altius.
+  * Featured on a panel event with other women in tech.
+
+-----
