@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* MSci (1st Class). in Mathematics, University College London, 2015
+* MRes (Distinction) in Mathematics, Mathematics of Planet Earth Doctoral Training Centre, Imperial College London and University of Reading, 2016
+* Ph.D in Mathematics, Imperial College London, 2020. Thesis Title: Eddy-Induced Lagrangian Transport in an Idealised Meandering Oceanic Jet
 
 Work experience
 ======

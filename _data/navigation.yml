@@ -1,15 +1,20 @@
 # main links links
 main:
   - title: "PhD Research"
-  - url: /phd/   
+    url: /phd/   
     
   - title: "Portfolio"
     url: /portfolio/
         
   - title: "Blog Posts"
     url: /blog/
+
+  - title: "Interests"
+    url: /interests/
     
   - title: "CV"
     url: /cv/
+
+  
   
 
