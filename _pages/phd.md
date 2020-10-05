@@ -7,6 +7,8 @@ author_profile: true
 
 {% include base_path %}
 
+This is a work in progress
+
 ## Lagrangian Transport in an Idealised Oceanic Meandering Jet
 
 [Download thesis here](http://josiepark.github.io/files/thesis.pdf)
