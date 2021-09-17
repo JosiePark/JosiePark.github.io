@@ -11,7 +11,7 @@ redirect_from:
 
 Personal Profile
 ======
-A highly enthusiastic data scientist, specialising in NLP, Time Series Analysis and Dimensionality Reduction, with a passion for mathematical modelling of real world scenarios. I have experience in analysing and presenting complex analysis and communicating findings to a range of audiences, from academics to clients. I have contributed to several NLP projects as a Data Scientist, using techniques ranging from Topic Modelling, Information Extraction and Sentiment Analysis. During my PhD I ran complex, compute-intensive ocean general circulation models on high performance computing clusters in addition to building and meticulously testing numerical methods while presenting and predicting statistical observations. I used dimensionality reduction tools to simplify the ocean field and extract the dominant ocean features, and stochastic models to emulate the non-deterministic nature of the ocean.
+A highly enthusiastic data scientist, specialising in NLP, Time Series Analysis and Dimensionality Reduction, with a passion for mathematical modelling of real world scenarios. I have experience in analysing and presenting complex analysis and communicating findings to a range of audiences, from academics to clients. I have contributed to several NLP projects as a Data Scientist, using techniques ranging from Topic Modelling, Information Extraction and Sentiment Analysis. During my time at the Joint Biosecurity Centre, I have led a team of Data Scientists, Research Engineers and Software Engineers to run and analyse an ensemble of Epidemiological Models. During my PhD I ran complex, compute-intensive ocean general circulation models on high performance computing clusters in addition to building and meticulously testing numerical methods while presenting and predicting statistical observations. I used dimensionality reduction tools to simplify the ocean field and extract the dominant ocean features, and stochastic models to emulate the non-deterministic nature of the ocean.
 
 Education
 ======
@@ -23,7 +23,9 @@ Education
 Work experience
 ======
 
-* November 2019 - Present: Data Science Consultant, Altius, London, UK
+* September 2021 - Present: Data Scientist, Joint Biosecurity Centre, UK
+
+* November 2019 - September 2021: Data Science Consultant, Altius (later Avanade), London, UK
   * NLP project analysing and summarising consultation response data}
     * Cleaning and processing text using the python nltk and SpaCy packages.
     * Developing a topic model and a sentiment analysis model.
@@ -54,7 +56,7 @@ Work experience
 Skills
 ======
 
-* Python
+* Python (advanced)
   * Pandas
   * NumPy
   * SciPy
@@ -63,8 +65,13 @@ Skills
   * Tensorflow and Keras
   * nltk and SpaCy
   * statsmodels
-* Matlab
-* Fortran
+* R (intermediate)
+  * ggplot
+  * dplyr
+  * RSTAN
+* Matlab (intermediate)
+* Fortran (intermediate)
+* SQL (intermediate)
 * Unix
 * Version Control
 * Shell scripting

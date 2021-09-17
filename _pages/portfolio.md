@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Data Science Portfolio"
+title: "Data Science and Mathematical Modelling Portfolio"
 permalink: /portfolio/
 author_profile: true
 ---
