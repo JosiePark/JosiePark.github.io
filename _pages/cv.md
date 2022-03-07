@@ -23,9 +23,15 @@ Education
 Work experience
 ======
 
-* September 2021 - Present: Data Scientist, Joint Biosecurity Centre, UK
+* September 2021 - Present: Principal Data Scientist, UKHSA, UK
+  * Technical Lead of the Epidemiological Modelling Ensemble Team
 
 * November 2019 - September 2021: Data Science Consultant, Altius (later Avanade), London, UK
+
+  * Consultant working for the Joint Biosecurity Centre
+    * QA of hospital forcasting models
+    * Main developer of a model estimating the impact of Test, Trace and Isolate interventions
+    * Collaborator with external partners on bringing external offerings in-house to the JBC
   * NLP project analysing and summarising consultation response data}
     * Cleaning and processing text using the python nltk and SpaCy packages.
     * Developing a topic model and a sentiment analysis model.

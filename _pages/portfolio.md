@@ -14,3 +14,10 @@ This is a work in progress
   {% include archive-single.html %}
 {% endfor %} -->
 
+Test and Trace Impact Model
+===========================
+
+I have taken inspiration from a model developed at JBC and started creating and individual-based model made up of cases with household and non-household contacts. 
+
+The github repository, along with further details, can be found [here](https://github.com/JosiePark/TTI_impact).
+
