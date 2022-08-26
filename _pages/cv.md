@@ -11,7 +11,7 @@ redirect_from:
 
 Personal Profile
 ======
-A highly enthusiastic data scientist, specialising in NLP, Time Series Analysis and Dimensionality Reduction, with a passion for mathematical modelling of real world scenarios. I have experience in analysing and presenting complex analysis and communicating findings to a range of audiences, from academics to clients. I have contributed to several NLP projects as a Data Scientist, using techniques ranging from Topic Modelling, Information Extraction and Sentiment Analysis. During my time at the Joint Biosecurity Centre, I have led a team of Data Scientists, Research Engineers and Software Engineers to run and analyse an ensemble of Epidemiological Models. During my PhD I ran complex, compute-intensive ocean general circulation models on high performance computing clusters in addition to building and meticulously testing numerical methods while presenting and predicting statistical observations. I used dimensionality reduction tools to simplify the ocean field and extract the dominant ocean features, and stochastic models to emulate the non-deterministic nature of the ocean.
+A highly enthusiastic data scientist with a passion for mathematical modelling of real world scenarios. I have experience in analysing and presenting complex analysis and communicating findings to a range of audiences, from academics to clients. I have contributed to several NLP projects as a Data Scientist, using techniques ranging from Topic Modelling, Information Extraction and Sentiment Analysis. During my time at the Joint Biosecurity Centre (now UK Health Security Agency), I have led a team of Data Scientists, Research Engineers and Software Engineers to run, develop, interpret and present an ensemble of Epidemiological Models. During my PhD I ran complex, compute-intensive ocean general circulation models on high performance computing clusters in addition to building and meticulously testing numerical methods while presenting and predicting statistical observations. I used dimensionality reduction tools to simplify the ocean field and extract the dominant ocean features, and stochastic models to emulate the non-deterministic nature of the ocean.
 
 Education
 ======
@@ -25,6 +25,9 @@ Work experience
 
 * September 2021 - Present: Principal Data Scientist, UKHSA, UK
   * Technical Lead of the Epidemiological Modelling Ensemble Team
+    * Focus of the team is on developing and combining Epidemiological models for COVID-19
+    * Models include Agent-Based, Compartmental and Statistical Models
+    * Main responsibilities are the co-ordination of the delivery of our main production, communicating the analysis and management, mentorship and leadership of team members. 
 
 * November 2019 - September 2021: Data Science Consultant, Altius (later Avanade), London, UK
 
@@ -32,6 +35,7 @@ Work experience
     * QA of hospital forcasting models
     * Main developer of a model estimating the impact of Test, Trace and Isolate interventions
     * Collaborator with external partners on bringing external offerings in-house to the JBC
+
   * NLP project analysing and summarising consultation response data}
     * Cleaning and processing text using the python nltk and SpaCy packages.
     * Developing a topic model and a sentiment analysis model.
@@ -49,6 +53,10 @@ Work experience
     * Focus was on reconstructing handwriting.
     * Used Microsoft Azure's Read API to guide the process.
     * Managed to construct most popular drug names with accuracy of 98\%.
+  
+  * Developing internal time series analysis functionality
+    * Used Object-Oriented Programming to build a time series analysis class
+    * Wrote general purpose modules that split the data, trained the model and visualised the analysis
 
 * Summer 2018 - Summer Research Assistant, Met Office
   * I worked alongside the Dynamics Research group at the Met Office. I tested a finite volume numerical method used for modelling the transport equation and isolated causes of any inaccuracies due to the new cubed-sphere grid, and suggested possible solutions which were then collected into a report advising the team based on my results. All code was written in Python, and I presented the results to colleagues at Imperial. 
@@ -82,6 +90,7 @@ Skills
 * Version Control
 * Shell scripting
 * Microsoft Azure
+* AWS
 
 Extra-curricular Activities
 ======
