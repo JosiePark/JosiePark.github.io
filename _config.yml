@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Josie Park / Data Scientist"
+title                    : "Josie Park / Climate Data Scientist"
 title_separator          : "-"
 name                     : &name "Josie Park"
 description              : &description "A Data Scientist with a Mathematics background and PhD in Ocean Modelling"
@@ -84,7 +84,7 @@ author:
   avatar           : "josie.jpg"
   bio              : "Get in touch"
   location         : "Cambridge, UK"
-  employer         : "Joint Biosecurity Centre"
+  employer         : "NatWest Group"
   pubmed           : 
   googlescholar    : 
   email            : "josiepark92@hotmail.co.uk"
