@@ -5,8 +5,6 @@ permalink: /portfolio/
 author_profile: true
 ---
 
-This is a work in progress
-
 <!-- {% include base_path %}
 
 
