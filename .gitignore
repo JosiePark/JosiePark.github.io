@@ -1,2 +1,14 @@
 _site/
 
+# Jekyll caches
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
+
+# Bundler (local Ruby setup; GitHub Pages resolves its own gems)
+.bundle/
+/vendor/
+Gemfile.lock
+
+# Local editor/tool settings
+.claude/
